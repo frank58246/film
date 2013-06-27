@@ -2,6 +2,12 @@
 	<style type="text/css" >
 	#board
 		{
-			background-color:black;
+			background-image:url(./pic/web_bg.png);
     	}
+	.family
+	{
+		font-family:標楷體;
+	}		
 	</style>
+
+	
